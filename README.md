@@ -7,4 +7,5 @@
 | 3 | Longest Unique Substring      | [Python](Medium/longest_substring.py) | Medium     | String, Sliding Window, HashSet          |
 | 4 | Median Of two Sorted Array    | [Python](Hard/median_of_two_array.py) | Hard       | Binary Search, Divide and Conquer, Array |
 | 5 | Longest Palindromic Substring | [Python](palindromic_substring.py)    | Medium     | Dynamic Programming, String              |
+| 6 | Zigzag Conversion             | [Python](zigzag_conversion.py)        | Medium     | String, Simulation              |
  
