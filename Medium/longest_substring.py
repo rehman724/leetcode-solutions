@@ -1,4 +1,4 @@
-# Medium/longest_unique_substring.py
+# Medium/longest_substring.py
 
 def lengthOfLongestSubstring(s:str)->int:
     seen=set()

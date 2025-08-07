@@ -1,4 +1,4 @@
-# Medium/longest_palindromic_substring.py
+# Medium/palindromic_substring.py
 
 def longestPalindrome(s:str)->str:
     if not s or len(s)<1:
