@@ -16,4 +16,5 @@
 | 12 | Integer to Roman              | [Python](Medium/integer_to_roman.py)          | Medium     | Math, String             |
 | 13 | Roman to Integer              | [Python](Easy/roman_to_integer.py)            | Easy       | Hash Table, Math             |
 | 14 | Longest Common Prefix         | [Python](Easy/longest_common_prefix.py)       | Easy       | String, Trie             |
-| 15 | 3 Sum                         | [Python](Medium/3sum.py)                      | Medium     | Array, Two Pointers            | 
+| 15 | 3 Sum                         | [Python](Medium/3sum.py)                      | Medium     | Array, Two Pointers            |
+| 16 | 3 Sum Closet                  | [Python](Medium/3sum_closet.py)               | Medium     | Array, Two Pointers            | 
