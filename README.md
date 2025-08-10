@@ -24,3 +24,6 @@
 | 20 | Valid Parentheses                  | [Python](Easy/valid_parentheses.py)                    | Easy       | String, Stack                            | 
 | 21 | Merge Two Sorted Lists             | [Python](Easy/merge_two_sorted_list.py)                | Easy       | Linked List, Recursion                   | 
 | 22 | Generate Parentheses               | [Python](Medium/generate_parentheses.py)               | Medium     | String, Dynamic Programming              | 
+| 23 | Merge K Sorted Lists               | [Python](Hard/merge_k_sorted_lists.py)                 | Hard       | Linked List, Divide and Conquer          | 
+| 24 | Swap Nodes in Pairs                | [Python](Medium/swap_nodes_in_pairs.py)                | Medium     | Linked List, Recursion                   | 
+| 25 | Reverse Nodes in K Group           | [Python](Hard/reverse_nodes_in_k-group.py)             | Hard       | Linked List, Recursion                   | 
