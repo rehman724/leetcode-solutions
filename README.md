@@ -1,37 +1,40 @@
 # leetcode-solutions
 
-| #  | Title                                     | Solution                                                | Difficulty | Tags                                     |
-|----|-------------------------------------------|---------------------------------------------------------|------------|------------------------------------------|
-| 1  | Two Sum                                   | [Python](Easy/two_sum.py)                               | Easy       | Array, Hash Map                          |
-| 2  | Add Two Numbers                           | [Python](Medium/add_two_numbers.py)                     | Medium     | Linked List                              |
-| 3  | Longest Unique Substring                  | [Python](Medium/longest_substring.py)                   | Medium     | String, Sliding Window, HashSet          |
-| 4  | Median Of two Sorted Array                | [Python](Hard/median_of_two_array.py)                   | Hard       | Binary Search, Divide and Conquer, Array |
-| 5  | Longest Palindromic Substring             | [Python](Medium/palindromic_substring.py)               | Medium     | Dynamic Programming, String              |
-| 6  | Zigzag Conversion                         | [Python](Medium/zigzag_conversion.py)                   | Medium     | String, Simulation                       |
-| 7  | Reverse Integer                           | [Python](Medium/reverse_integer.py)                     | Medium     | Math, Integer Manipulation               |
-| 8  | String to Integer                         | [Python](Medium/string_to_integer.py)                   | Medium     | String, Parsing                          |
-| 9  | Palindrome Number                         | [Python](Easy/palindrome_number.py)                     | Easy       | Math                                     |
-| 10 | Regular Expression Matching               | [Python](Hard/regular_expression_matching.py)           | Hard       | Dynamic Programming, Recursion           |
-| 11 | Container with Most Water                 | [Python](Medium/container_with_most_water.py)           | Medium     | Two Pointers, Greedy                     |
-| 12 | Integer to Roman                          | [Python](Medium/integer_to_roman.py)                    | Medium     | Math, String                             |
-| 13 | Roman to Integer                          | [Python](Easy/roman_to_integer.py)                      | Easy       | Hash Table, Math                         |
-| 14 | Longest Common Prefix                     | [Python](Easy/longest_common_prefix.py)                 | Easy       | String, Trie                             |
-| 15 | 3 Sum                                     | [Python](Medium/3sum.py)                                | Medium     | Array, Two Pointers                      |
-| 16 | 3 Sum Closet                              | [Python](Medium/3sum_closet.py)                         | Medium     | Array, Two Pointers                      |
-| 17 | Letter Combination of Phone Number        | [Python](Medium/letter_combination_of_phone_number.py)  | Medium     | Hash Table, Backtrack                    | 
-| 18 | 4 Sum                                     | [Python](Medium/4sum.py)                                | Medium     | Array, Two Pointer                       | 
-| 19 | Remove Nth Node from List                 | [Python](Medium/remove_nth_node.py)                     | Medium     | Linked List, Two Pointer                 | 
-| 20 | Valid Parentheses                         | [Python](Easy/valid_parentheses.py)                     | Easy       | String, Stack                            | 
-| 21 | Merge Two Sorted Lists                    | [Python](Easy/merge_two_sorted_list.py)                 | Easy       | Linked List, Recursion                   | 
-| 22 | Generate Parentheses                      | [Python](Medium/generate_parentheses.py)                | Medium     | String, Dynamic Programming              | 
-| 23 | Merge K Sorted Lists                      | [Python](Hard/merge_k_sorted_lists.py)                  | Hard       | Linked List, Divide and Conquer          | 
-| 24 | Swap Nodes in Pairs                       | [Python](Medium/swap_nodes_in_pairs.py)                 | Medium     | Linked List, Recursion                   | 
-| 25 | Reverse Nodes in K Group                  | [Python](Hard/reverse_nodes_in_k-group.py)              | Hard       | Linked List, Recursion                   | 
-| 26 | Remove Duplicates from Sorted Array       | [Python](Easy/remove_duplicates_from_sorted_array.py)   | Easy       | Array, Two Pointer                       | 
-| 27 | Remove Element                            | [Python](Easy/remove_element.py)                        | Easy       | Array, Two Pointer                       | 
-| 28 | Find Index of First Occurrence in String  | [Python](Easy/index_of_first_occurrence_in_string.py)   | Easy       | Two Pointer , String                     | 
-| 29 | Divide Two Integers                       | [Python](Medium/divide_two_integers.py)                 | Medium     | Math , Bit Manipulation                  | 
-| 30 | Substring With concatenation of All Words | [Python](Hard/substring_with_concatenation_of_words.py) | Hard       | Hash Table, String                       | 
-| 31 | Next Permutation                          | [Python](Medium/next_permutation.py)                    | Medium     | Array, Two Pointer                       | 
-| 32 | Longest Valid Parentheses                 | [Python](Hard/longest_valid_parentheses.py)             | Hard       | String, Dynamic Programming              | 
-| 33 | Search in Rotated Sorted Array                | [Python](Medium/search_in_rotated_sorted_array.py)      | Medium     | Array, Binary Search                     | 
+| #  | Title                                                   | Solution                                                               | Difficulty | Tags                                     |
+|----|---------------------------------------------------------|------------------------------------------------------------------------|------------|------------------------------------------|
+| 1  | Two Sum                                                 | [Python](Easy/two_sum.py)                                              | Easy       | Array, Hash Map                          |
+| 2  | Add Two Numbers                                         | [Python](Medium/add_two_numbers.py)                                    | Medium     | Linked List                              |
+| 3  | Longest Unique Substring                                | [Python](Medium/longest_substring.py)                                  | Medium     | String, Sliding Window, HashSet          |
+| 4  | Median Of two Sorted Array                              | [Python](Hard/median_of_two_array.py)                                  | Hard       | Binary Search, Divide and Conquer, Array |
+| 5  | Longest Palindromic Substring                           | [Python](Medium/palindromic_substring.py)                              | Medium     | Dynamic Programming, String              |
+| 6  | Zigzag Conversion                                       | [Python](Medium/zigzag_conversion.py)                                  | Medium     | String, Simulation                       |
+| 7  | Reverse Integer                                         | [Python](Medium/reverse_integer.py)                                    | Medium     | Math, Integer Manipulation               |
+| 8  | String to Integer                                       | [Python](Medium/string_to_integer.py)                                  | Medium     | String, Parsing                          |
+| 9  | Palindrome Number                                       | [Python](Easy/palindrome_number.py)                                    | Easy       | Math                                     |
+| 10 | Regular Expression Matching                             | [Python](Hard/regular_expression_matching.py)                          | Hard       | Dynamic Programming, Recursion           |
+| 11 | Container with Most Water                               | [Python](Medium/container_with_most_water.py)                          | Medium     | Two Pointers, Greedy                     |
+| 12 | Integer to Roman                                        | [Python](Medium/integer_to_roman.py)                                   | Medium     | Math, String                             |
+| 13 | Roman to Integer                                        | [Python](Easy/roman_to_integer.py)                                     | Easy       | Hash Table, Math                         |
+| 14 | Longest Common Prefix                                   | [Python](Easy/longest_common_prefix.py)                                | Easy       | String, Trie                             |
+| 15 | 3 Sum                                                   | [Python](Medium/3sum.py)                                               | Medium     | Array, Two Pointers                      |
+| 16 | 3 Sum Closet                                            | [Python](Medium/3sum_closet.py)                                        | Medium     | Array, Two Pointers                      |
+| 17 | Letter Combination of Phone Number                      | [Python](Medium/letter_combination_of_phone_number.py)                 | Medium     | Hash Table, Backtrack                    | 
+| 18 | 4 Sum                                                   | [Python](Medium/4sum.py)                                               | Medium     | Array, Two Pointer                       | 
+| 19 | Remove Nth Node from List                               | [Python](Medium/remove_nth_node.py)                                    | Medium     | Linked List, Two Pointer                 | 
+| 20 | Valid Parentheses                                       | [Python](Easy/valid_parentheses.py)                                    | Easy       | String, Stack                            | 
+| 21 | Merge Two Sorted Lists                                  | [Python](Easy/merge_two_sorted_list.py)                                | Easy       | Linked List, Recursion                   | 
+| 22 | Generate Parentheses                                    | [Python](Medium/generate_parentheses.py)                               | Medium     | String, Dynamic Programming              | 
+| 23 | Merge K Sorted Lists                                    | [Python](Hard/merge_k_sorted_lists.py)                                 | Hard       | Linked List, Divide and Conquer          | 
+| 24 | Swap Nodes in Pairs                                     | [Python](Medium/swap_nodes_in_pairs.py)                                | Medium     | Linked List, Recursion                   | 
+| 25 | Reverse Nodes in K Group                                | [Python](Hard/reverse_nodes_in_k-group.py)                             | Hard       | Linked List, Recursion                   | 
+| 26 | Remove Duplicates from Sorted Array                     | [Python](Easy/remove_duplicates_from_sorted_array.py)                  | Easy       | Array, Two Pointer                       | 
+| 27 | Remove Element                                          | [Python](Easy/remove_element.py)                                       | Easy       | Array, Two Pointer                       | 
+| 28 | Find Index of First Occurrence in String                | [Python](Easy/index_of_first_occurrence_in_string.py)                  | Easy       | Two Pointer , String                     | 
+| 29 | Divide Two Integers                                     | [Python](Medium/divide_two_integers.py)                                | Medium     | Math , Bit Manipulation                  | 
+| 30 | Substring With concatenation of All Words               | [Python](Hard/substring_with_concatenation_of_words.py)                | Hard       | Hash Table, String                       | 
+| 31 | Next Permutation                                        | [Python](Medium/next_permutation.py)                                   | Medium     | Array, Two Pointer                       | 
+| 32 | Longest Valid Parentheses                               | [Python](Hard/longest_valid_parentheses.py)                            | Hard       | String, Dynamic Programming              | 
+| 33 | Search in Rotated Sorted Array                          | [Python](Medium/search_in_rotated_sorted_array.py)                     | Medium     | Array, Binary Search                     | 
+| 34 | Find First and Last Position of Element in Sorted Array | [Python](Medium/first_and_last_position_of_element_in_sorted_array.py) | Medium     | Array, Binary Search                     | 
+| 35 | Search Insert Position                                  | [Python](Easy/search_insert_position.py)                               | Easy       | Array, Binary Search                     | 
+| 36 | Valid Sudoku                                            | [Python](Easy/valid_sudoku.py)                                         | Medium     | Array, Hash Table                        | 
