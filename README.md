@@ -37,4 +37,8 @@
 | 33 | Search in Rotated Sorted Array                          | [Python](Medium/search_in_rotated_sorted_array.py)                     | Medium     | Array, Binary Search                     | 
 | 34 | Find First and Last Position of Element in Sorted Array | [Python](Medium/first_and_last_position_of_element_in_sorted_array.py) | Medium     | Array, Binary Search                     | 
 | 35 | Search Insert Position                                  | [Python](Easy/search_insert_position.py)                               | Easy       | Array, Binary Search                     | 
-| 36 | Valid Sudoku                                            | [Python](Easy/valid_sudoku.py)                                         | Medium     | Array, Hash Table                        | 
+| 36 | Valid Sudoku                                            | [Python](Medium/valid_sudoku.py)                                       | Medium     | Array, Hash Table                        | 
+| 37 | Sudoku Solver                                           | [Python](Hard/sudoku_solver.py)                                        | Hard       | Array, Hash Table                        | 
+| 38 | Count and Say                                           | [Python](Medium/count_and_say.py)                                      | Medium     | String                                   | 
+| 39 | Combination Sum                                         | [Python](Medium/combination_sum.py)                                    | Medium     | Array, Backtracking                      | 
+| 40 | Combination Sum 2                                       | [Python](Medium/combination_sum_2.py)                                  | Medium     | Array, Backtracking                      | 
