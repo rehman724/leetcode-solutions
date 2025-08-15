@@ -42,3 +42,6 @@
 | 38 | Count and Say                                           | [Python](Medium/count_and_say.py)                                      | Medium     | String                                   | 
 | 39 | Combination Sum                                         | [Python](Medium/combination_sum.py)                                    | Medium     | Array, Backtracking                      | 
 | 40 | Combination Sum 2                                       | [Python](Medium/combination_sum_2.py)                                  | Medium     | Array, Backtracking                      | 
+| 41 | First Missing Positive                                  | [Python](Hard/first_missing_positive.py)                               | Hard       | Array, Hash Table                        | 
+| 42 | Trapping Rain Water                                     | [Python](Hard/trapping_rain_water.py)                                  | Hard       | Array, Two Pointer                       | 
+| 43 | Multiply String                                         | [Python](Medium/multiply_string.py)                                    | Medium     | Math, String                             | 
