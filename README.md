@@ -45,3 +45,6 @@
 | 41 | First Missing Positive                                  | [Python](Hard/first_missing_positive.py)                               | Hard       | Array, Hash Table                        | 
 | 42 | Trapping Rain Water                                     | [Python](Hard/trapping_rain_water.py)                                  | Hard       | Array, Two Pointer                       | 
 | 43 | Multiply String                                         | [Python](Medium/multiply_string.py)                                    | Medium     | Math, String                             | 
+| 44 | Wildcard Matching                                       | [Python](Hard/wildcard_matching.py)                                    | Hard       | String, Dynamic Programming              | 
+| 45 | Jump Game 2                                             | [Python](Medium/jump_game_2.py)                                        | Medium     | Array, Dynamic Programming               | 
+| 46 | Permutations                                            | [Python](Medium/permutations.py)                                       | Medium     | Array, Backtracking                      | 
