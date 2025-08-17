@@ -48,3 +48,6 @@
 | 44 | Wildcard Matching                                       | [Python](Hard/wildcard_matching.py)                                    | Hard       | String, Dynamic Programming              | 
 | 45 | Jump Game 2                                             | [Python](Medium/jump_game_2.py)                                        | Medium     | Array, Dynamic Programming               | 
 | 46 | Permutations                                            | [Python](Medium/permutations.py)                                       | Medium     | Array, Backtracking                      | 
+| 47 | Permutations 2                                          | [Python](Medium/permutation_2.py)                                      | Medium     | Array, Backtracking                      | 
+| 48 | Rotate Image                                            | [Python](Medium/rotate_image.py)                                       | Medium     | Array, Math                              | 
+| 49 | Group Anagrams                                          | [Python](Medium/group_anagrams.py)                                     | Medium     | Array, String                            | 
