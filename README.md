@@ -51,3 +51,6 @@
 | 47 | Permutations 2                                          | [Python](Medium/permutation_2.py)                                      | Medium     | Array, Backtracking                      | 
 | 48 | Rotate Image                                            | [Python](Medium/rotate_image.py)                                       | Medium     | Array, Math                              | 
 | 49 | Group Anagrams                                          | [Python](Medium/group_anagrams.py)                                     | Medium     | Array, String                            | 
+| 50 | Pow(x,n)                                                | [Python](Medium/pow(x,n).py)                                           | Medium     | Recurrsion, Math                         | 
+| 51 | N Queens                                                | [Python](Hard/n_queen.py)                                              | Hard       | Array, Backtracking                      | 
+| 52 | N Queens 2                                              | [Python](Hard/n_queen_2.py)                                            | Hard       | Array, Backtracking                      | 
