@@ -54,3 +54,6 @@
 | 50 | Pow(x,n)                                                | [Python](Medium/pow(x,n).py)                                           | Medium     | Recurrsion, Math                         | 
 | 51 | N Queens                                                | [Python](Hard/n_queen.py)                                              | Hard       | Array, Backtracking                      | 
 | 52 | N Queens 2                                              | [Python](Hard/n_queen_2.py)                                            | Hard       | Array, Backtracking                      | 
+| 53 | Maximum Subarray                                        | [Python](Medium/maximum_subarray.py)                                   | Medium     | Array, Divide and Conquer                | 
+| 54 | Spiral Matrix                                           | [Python](Medium/spiral_matrix.py)                                      | Medium     | Array, Matrix                            | 
+| 55 | Jump Game                                               | [Python](Medium/jump_game.py)                                          | Medium     | Array, Dynamic Programming               | 
