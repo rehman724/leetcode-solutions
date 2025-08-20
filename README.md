@@ -57,3 +57,6 @@
 | 53 | Maximum Subarray                                        | [Python](Medium/maximum_subarray.py)                                   | Medium     | Array, Divide and Conquer                | 
 | 54 | Spiral Matrix                                           | [Python](Medium/spiral_matrix.py)                                      | Medium     | Array, Matrix                            | 
 | 55 | Jump Game                                               | [Python](Medium/jump_game.py)                                          | Medium     | Array, Dynamic Programming               | 
+| 56 | Merge Intervals                                         | [Python](Medium/merge_intervels.py)                                    | Medium     | Array, Sorting                           | 
+| 57 | Insert Interval                                         | [Python](Medium/insert_interval.py)                                    | Medium     | Array, Sorting                           | 
+| 58 | Length of Last Word                                     | [Python](Easy/length_of_last_word.py)                                  | Easy       | String                                   | 
