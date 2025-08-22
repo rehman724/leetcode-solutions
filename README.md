@@ -62,4 +62,7 @@
 | 58 | Length of Last Word                                     | [Python](Easy/length_of_last_word.py)                                  | Easy       | String                                   | 
 | 59 | Spiral Matrix 2                                         | [Python](Medium/spiral_matrix-2.py)                                    | Medium     | Array, Matrix                            | 
 | 60 | Permutation Sequence                                    | [Python](Hard/permutation_sequence.py)                                 | Hard       | Math, Recursion                          | 
-| 61 | Rotate List                                             | [Python](Hard/rotate_list.py)                                          | Medium     | Linked List, Two Pointer                 | 
+| 61 | Rotate List                                             | [Python](Medium/rotate_list.py)                                        | Medium     | Linked List, Two Pointer                 | 
+| 62 | Unique Paths                                            | [Python](Medium/unique_path.py)                                        | Medium     | Math, Dynamic Programming                | 
+| 63 | Unique Paths 2                                          | [Python](Medium/unique_path_2.py)                                      | Medium     | Math, Dynamic Programming                | 
+| 64 | Minimum Path Sum                                        | [Python](Medium/minimum_path_sum.py)                                   | Medium     | Array, Dynamic Programming               | 
