@@ -66,3 +66,6 @@
 | 62 | Unique Paths                                            | [Python](Medium/unique_path.py)                                        | Medium     | Math, Dynamic Programming                | 
 | 63 | Unique Paths 2                                          | [Python](Medium/unique_path_2.py)                                      | Medium     | Math, Dynamic Programming                | 
 | 64 | Minimum Path Sum                                        | [Python](Medium/minimum_path_sum.py)                                   | Medium     | Array, Dynamic Programming               | 
+| 65 | Valid Number                                            | [Python](Hard/valid_number.py)                                         | Hard       | String                                   | 
+| 66 | Plus One                                                | [Python](Easy/plus_one.py)                                             | Easy       | Array, Math                              | 
+| 67 | Add Binary                                              | [Python](Easy/add_binary.py)                                           | Easy       | String, Math                             | 
