@@ -69,3 +69,6 @@
 | 65 | Valid Number                                            | [Python](Hard/valid_number.py)                                         | Hard       | String                                   | 
 | 66 | Plus One                                                | [Python](Easy/plus_one.py)                                             | Easy       | Array, Math                              | 
 | 67 | Add Binary                                              | [Python](Easy/add_binary.py)                                           | Easy       | String, Math                             | 
+| 68 | Text Justification                                      | [Python](hard/text_justification.py)                                   | Hard       | String, Array                            | 
+| 69 | Sqrt(x)                                                 | [Python](easy/sqrt(x).py)                                              | Easy       | Math, Binary Search                      | 
+| 70 | Climbing Stairs                                         | [Python](easy/climbing_stairs.py)                                      | Easy       | Math, Dynamic Programming                | 
