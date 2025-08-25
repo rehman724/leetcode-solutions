@@ -72,3 +72,6 @@
 | 68 | Text Justification                                      | [Python](hard/text_justification.py)                                   | Hard       | String, Array                            | 
 | 69 | Sqrt(x)                                                 | [Python](easy/sqrt(x).py)                                              | Easy       | Math, Binary Search                      | 
 | 70 | Climbing Stairs                                         | [Python](easy/climbing_stairs.py)                                      | Easy       | Math, Dynamic Programming                | 
+| 71 | Simplify Path                                           | [Python](medium/simplify_path.py)                                      | Medium     | String, Stack                            | 
+| 72 | Edit Distance                                           | [Python](medium/edit_distance.py)                                      | Medium     | String, Dynamic Programming              | 
+| 73 | Set Zeroes                                              | [Python](medium/set_zeroes.py)                                         | Medium     | Array, Matrix                            | 
