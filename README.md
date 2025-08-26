@@ -75,3 +75,6 @@
 | 71 | Simplify Path                                           | [Python](medium/simplify_path.py)                                      | Medium     | String, Stack                            | 
 | 72 | Edit Distance                                           | [Python](medium/edit_distance.py)                                      | Medium     | String, Dynamic Programming              | 
 | 73 | Set Zeroes                                              | [Python](medium/set_zeroes.py)                                         | Medium     | Array, Matrix                            | 
+| 74 | Search 2D Matrix                                        | [Python](medium/search_2d-matrix.py)                                   | Medium     | Array, Matrix                            | 
+| 75 | Sort Colors                                             | [Python](medium/sort_colors.py)                                        | Medium     | Array, Sorting                           | 
+| 76 | Minimum Window Substring                                | [Python](Hard/minimum_window_substring.py)                             | Hard       | String, Sliding Window                   | 
