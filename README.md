@@ -78,3 +78,6 @@
 | 74 | Search 2D Matrix                                        | [Python](medium/search_2d-matrix.py)                                   | Medium     | Array, Matrix                            | 
 | 75 | Sort Colors                                             | [Python](medium/sort_colors.py)                                        | Medium     | Array, Sorting                           | 
 | 76 | Minimum Window Substring                                | [Python](Hard/minimum_window_substring.py)                             | Hard       | String, Sliding Window                   | 
+| 77 | Combinations                                            | [Python](Medium/combinations.py)                                       | Medium     | Backtracking                             | 
+| 78 | Subsets                                                 | [Python](Medium/subsets.py)                                            | Medium     | Array, Backtracking                      | 
+| 79 | Word Search                                             | [Python](Medium/word_search.py)                                        | Medium     | Array, String                            | 
