@@ -81,3 +81,6 @@
 | 77 | Combinations                                            | [Python](Medium/combinations.py)                                       | Medium     | Backtracking                             | 
 | 78 | Subsets                                                 | [Python](Medium/subsets.py)                                            | Medium     | Array, Backtracking                      | 
 | 79 | Word Search                                             | [Python](Medium/word_search.py)                                        | Medium     | Array, String                            | 
+| 80 | Remove Duplicates from Sorted Array 2                   | [Python](Medium/remove_duplicates_from_sorted_array_2.py)              | Medium     | Array, Two Pointer                       | 
+| 81 | Search in Rotate Sorted Array 2                         | [Python](Medium/search_in_rotate_sorted_array_2.py)                    | Medium     | Array, Binary Search                     | 
+| 82 | Remove Duplicates from Sorted List 2                    | [Python](Medium/remove_duplicates_from_sorted_list_2.py)               | Medium     | Linked List, Two Pointer                 | 
