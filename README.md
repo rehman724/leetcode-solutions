@@ -84,3 +84,6 @@
 | 80 | Remove Duplicates from Sorted Array 2                   | [Python](Medium/remove_duplicates_from_sorted_array_2.py)              | Medium     | Array, Two Pointer                       | 
 | 81 | Search in Rotate Sorted Array 2                         | [Python](Medium/search_in_rotate_sorted_array_2.py)                    | Medium     | Array, Binary Search                     | 
 | 82 | Remove Duplicates from Sorted List 2                    | [Python](Medium/remove_duplicates_from_sorted_list_2.py)               | Medium     | Linked List, Two Pointer                 | 
+| 83 | Remove Duplicates from Sorted List                      | [Python](Easy/remove_duplicates_from_sorted_list.py)                   | Easy       | Linked List                              | 
+| 84 | Largest Rectangle in Histogram                          | [Python](Hard/Largest_rectangle_in_histogram.py)                       | Hard       | Array, Stack                             | 
+| 85 | Maximal Rectangle                                       | [Python](Hard/maximal_rectangle.py)                                    | Hard       | Dynamic Programming, Stack               | 
