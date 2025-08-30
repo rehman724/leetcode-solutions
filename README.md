@@ -87,3 +87,6 @@
 | 83 | Remove Duplicates from Sorted List                      | [Python](Easy/remove_duplicates_from_sorted_list.py)                   | Easy       | Linked List                              | 
 | 84 | Largest Rectangle in Histogram                          | [Python](Hard/Largest_rectangle_in_histogram.py)                       | Hard       | Array, Stack                             | 
 | 85 | Maximal Rectangle                                       | [Python](Hard/maximal_rectangle.py)                                    | Hard       | Dynamic Programming, Stack               | 
+| 86 | Partition List                                          | [Python](Medium/partition_list.py)                                     | Medium     | Linked List, Two Pointer                 | 
+| 87 | Scramble String                                         | [Python](Hard/scramble_string.py)                                      | Hard       | String, Dynamic Programming              | 
+| 88 | Merge Sorted Array                                      | [Python](Easy/merge_sorted_array.py)                                   | Easy       | Array, Sorting                           | 
