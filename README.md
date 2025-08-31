@@ -90,3 +90,5 @@
 | 86 | Partition List                                          | [Python](Medium/partition_list.py)                                     | Medium     | Linked List, Two Pointer                 | 
 | 87 | Scramble String                                         | [Python](Hard/scramble_string.py)                                      | Hard       | String, Dynamic Programming              | 
 | 88 | Merge Sorted Array                                      | [Python](Easy/merge_sorted_array.py)                                   | Easy       | Array, Sorting                           | 
+| 89 | Gray Code                                               | [Python](Medium/gray_code.py)                                          | Medium     | Math, Backtracking                       | 
+| 90 | Subsets 2                                               | [Python](Medium/subset_2.py)                                           | Medium     | Array, Backtracking                      | 
