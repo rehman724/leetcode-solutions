@@ -92,3 +92,6 @@
 | 88 | Merge Sorted Array                                      | [Python](Easy/merge_sorted_array.py)                                   | Easy       | Array, Sorting                           | 
 | 89 | Gray Code                                               | [Python](Medium/gray_code.py)                                          | Medium     | Math, Backtracking                       | 
 | 90 | Subsets 2                                               | [Python](Medium/subset_2.py)                                           | Medium     | Array, Backtracking                      | 
+| 91 | Decode Ways                                             | [Python](Medium/decode_ways.py)                                        | Medium     | String, Dynamic Programming              | 
+| 92 | Reverse Linked List 2                                   | [Python](Medium/reverse_linked_list_2.py)                              | Medium     | Linked List, Dynamic Programming         | 
+| 93 | Restore IP Addresses                                    | [Python](Medium/restore_ip_addresses.py)                               | Medium     | String, Backtracking             | 
