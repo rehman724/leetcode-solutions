@@ -95,5 +95,8 @@
 | 91 | Decode Ways                                             | [Python](Medium/decode_ways.py)                                        | Medium     | String, Dynamic Programming              | 
 | 92 | Reverse Linked List 2                                   | [Python](Medium/reverse_linked_list_2.py)                              | Medium     | Linked List, Dynamic Programming         | 
 | 93 | Restore IP Addresses                                    | [Python](Medium/restore_ip_addresses.py)                               | Medium     | String, Backtracking                     | 
-| 94 | Binary Tree Inorder Traversal                                    | [Python](Easy/binary_tree_inorder_traversal.py)                        | Easy       | Stack, Tree                              | 
-| 95 | Unique Binary Search Trees II                                    | [Python](Medium/unique_binary_search_trees_2.py)                       | Easy       | Dynamic Programming, Backtracking        | 
+| 94 | Binary Tree Inorder Traversal                           | [Python](Easy/binary_tree_inorder_traversal.py)                        | Easy       | Stack, Tree                              | 
+| 95 | Unique Binary Search Trees II                           | [Python](Medium/unique_binary_search_trees_2.py)                       | Easy       | Dynamic Programming, Backtracking        | 
+| 96 | Unique Binary Search Trees                              | [Python](Medium/unique_binary_search_trees.py)                         | Medium     | Dynamic Programming, Math                | 
+| 97 | Interleaving String                                     | [Python](Medium/interleaving_string.py)                                | Medium     | Dynamic Programming, String              | 
+| 98 | Validate Binary Search Tree                             | [Python](Medium/validate_binary_search_tree.py)                                | Medium     | Tree, DFS                                | 
