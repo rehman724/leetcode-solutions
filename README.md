@@ -102,3 +102,5 @@
 | 98  | Validate Binary Search Tree                             | [Python](Medium/validate_binary_search_tree.py)                        | Medium     | Tree, DFS                                | 
 | 99  | Recover Binary Search Tree                              | [Python](Medium/recover_binary_search_tree.py)                         | Medium     | Tree, DFS                                | 
 | 100 | Same Tree                                               | [Python](Easy/same_tree.py)                                            | Easy       | Tree, DFS                                | 
+| 101 | Symmetric Tree                                             | [Python](Easy/symmetric_tree.py)                                       | Easy       | Tree, DFS                                | 
+| 102 | Binary Tree Level Order Traversal                                             | [Python](Medium/binary_tree_level_order_traversal.py)                  | Medium     | Tree, BFS                                | 
